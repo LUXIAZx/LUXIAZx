@@ -53,14 +53,14 @@ you can reach me @tnwarmy
 
 <!--Technologies-->
 **Technologies**
-- Python <img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/python.svg" width="20px">
-- C  <img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/c.svg" width="20px">
-- C++  <img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/cplusplus.svg" width="20px">
-- Java  <img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/java.svg" width="20px">
-- C#  <img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/csharp.svg" width="20px">
-- Javascript  <img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/javascript.svg" width="20px">
-- Typescript  <img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/typescript.svg" width="20px">
-- GO  <img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/go.svg" width="20px">
+- Python <img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/python.svg" width="20px">
+- C  <img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/c.svg" width="20px">
+- C++  <img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/cplusplus.svg" width="20px">
+- Java  <img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/java.svg" width="20px">
+- C#  <img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/csharp.svg" width="20px">
+- Javascript  <img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/javascript.svg" width="20px">
+- Typescript  <img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/typescript.svg" width="20px">
+- GO  <img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/go.svg" width="20px">
 
 **Status of Me**
 - I'm building **The world lead learning website**  
