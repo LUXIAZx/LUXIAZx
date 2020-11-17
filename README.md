@@ -2,13 +2,6 @@
 
 <!-- My Social Media -->
 
-<!--Github-->
-<a href="https://github.com/tnwarmy">
-    <img align= "left" alt="tnwarmy"width="22px"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/github.svg
-" />
-</a>
-
 <!-- Facebook-->
 <a href="https://www.facebook.com/I3lackman/">
     <img align= "left" alt="Thanawit Udompol"width="22px"
@@ -56,7 +49,7 @@ you can reach me @tnwarmy
 - You can ask me anything about computer sciences, I'm happy to help.
 
 <!--Gif coding-->
-<img align="right" alt="GIF" src="/code.gif" width="500" height="320" />
+<img align="top" alt="GIF" src="/code.gif" width="500" height="500" />
 
 <!--Technologies-->
 **Technologies**
