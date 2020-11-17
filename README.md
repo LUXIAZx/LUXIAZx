@@ -48,6 +48,7 @@ you can reach me @tnwarmy
 **Let's Talk about Myself**
 
 - I'm studying Computer Science (*self-learning*)
+  - This path i'm learing <a href=https://trello.com/b/sPmdvVG6/cs-knowledge-paths> <img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/trello.svg" width="20px"> </a>
 - I'm interesting about Major of these. :smiling_face_with_three_hearts:
     - Web Development (*learning*)
     - Game Development
