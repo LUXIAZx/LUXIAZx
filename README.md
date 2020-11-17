@@ -64,7 +64,7 @@ you can reach me @tnwarmy
 - Typescript  <img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/typescript.svg" width="20px">
 - GO  <img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/go.svg" width="20px">
 
-**Status of Me**
+**Current working..**
 - I'm building **The world lead learning website**  
 
 **Goals**
