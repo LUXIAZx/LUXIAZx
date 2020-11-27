@@ -4,28 +4,28 @@
 
 <!-- Facebook-->
 <a href="https://www.facebook.com/I3lackman/">
-    <img align= "left" alt="Thanawit Udompol"width="22px"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/facebook.svg" />
+    <img align= "left" alt="Thanawit Udompol"width="px"
+    src="https://img.shields.io/badge/Facebook%20-Thanawit Udompol-blue" />
 </a>
 
 <!-- Discord-->
 <a href="">
-  <img align="left" alt="Thanawit Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  <img align="left" alt="Thanawit Discord" width="px" src="https://img.shields.io/badge/Discord%20--black" />
 </a>
 
 <!-- LinkdeIN-->
 <a href="https://www.linkedin.com/in/tanawich-udomphol-a34388186/">
-  <img align="left" alt="Thanawit LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Thanawit LinkdeIN" width="px" src="https://img.shields.io/badge/LinkdeIN%20--cyan" />
 </a>
 
 <!-- Telegram-->
 <a href="https://t.me/tnwarmy">
-  <img align="left" alt="Thanawit Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Thanawit Telegram" width="px" src="https://img.shields.io/badge/Telegram%20-Thanawit-lightblue" />
 </a>
 
 <!-- Instagram-->
 <a href="https://www.instagram.com/mr_luxiaz/">
-  <img align="left" alt="mr_luxiaz Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="mr_luxiaz Instagram" width="px" src="https://img.shields.io/badge/Instagram%20-mr_luxiaz-pink" />
 </a>
 
 <br></br>
@@ -51,26 +51,27 @@ you can reach me @tnwarmy
 - You can ask me anything about computer sciences, I'm happy to help.
 
 <!--Gif coding-->
-<img align="right" alt="GIF" src="/code.gif" width="400" height="250" />
+<img align="right" alt="GIF" src="/tnwarmy/code.gif" width="400" height="250" />
 
 <!--Technologies-->
 **Technologies**
-- Python <img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/python.svg" width="20px">
-- C  <img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/c.svg" width="20px">
-- C++  <img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/cplusplus.svg" width="20px">
-- Java  <img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/java.svg" width="20px">
-- C#  <img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/csharp.svg" width="20px">
-- Javascript  <img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/javascript.svg" width="20px">
-- Typescript  <img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/typescript.svg" width="20px">
-- GO  <img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/go.svg" width="20px">
+- <img align="" src="https://img.shields.io/badge/PYTHON%20-3-green" width="px">
+- <img align="" src="https://img.shields.io/badge/C%20-c11-blue" width="px">
+- <img align="" src="https://img.shields.io/badge/C%2B%2B%20--blueviolet" width="px">
+- <img align="" src="https://img.shields.io/badge/JAVA%20--orange" width="px">
+- <img align="" src="https://img.shields.io/badge/C%23%20--lightgrey" width="px">
+- <img align="" src="https://img.shields.io/badge/JAVASCRIPT%20--yellow" width="px">
+- <img align="" src="https://img.shields.io/badge/TYPESCRIPT%20--cyan" width="px">
+- <img align="" src="https://img.shields.io/badge/GO%20--blue" width="px">
 
-**Current working..**
-- I'm building **The world lead learning website**  
+## Technologies
+![](https://img.shields.io/badge/Editor-VScode-brightgreen)
 
-**Goals**
-* Build the best *Learning website for everyone and have quality*.
-* Build The game company who will bring the world to imagine world.
 
 **Github stats** 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tnwarmy&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnwarmy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Thanawit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tnwarmy)](https://github.com/anuraghazra/github-readme-stats)
