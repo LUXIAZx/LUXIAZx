@@ -51,7 +51,7 @@ you can reach me @tnwarmy
 - You can ask me anything about computer sciences, I'm happy to help.
 
 <!--Gif coding-->
-<img align="right" alt="GIF" src="/tnwarmy/code.gif" width="400" height="250" />
+<img align="right" alt="GIF" src="/code.gif" width="400" height="250" />
 
 <!--Technologies-->
 **Technologies**
