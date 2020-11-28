@@ -74,4 +74,5 @@ you can reach me @tnwarmy
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnwarmy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Thanawit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tnwarmy)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="left" alt="mr_luxiaz Instagram" width="px" src="https://github-readme-stats.vercel.app/api/wakatime?username=tnwarmy" />
+
