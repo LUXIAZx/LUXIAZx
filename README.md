@@ -38,7 +38,7 @@ you can reach me @tnwarmy
 </br>
 
 **My role**
-* Software Engineer / Developer :computer:	
+* Software Engineer / Developer :computer:	(Junior)
 
 **Let's Talk about Myself**
 
