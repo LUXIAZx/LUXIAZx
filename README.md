@@ -34,7 +34,7 @@
 <br>
 Hi! My name <strong>Thanawit L. Udompol </strong>. :trollface:	
 
-I'm a computer science learner and researcher computer science
+I'm a computer science learner/student and researcher computer science
 you can reach me @tnwarmy
 </br>
 
