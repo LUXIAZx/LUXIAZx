@@ -78,5 +78,5 @@ you can reach me @tnwarmy
   <img align="left" alt="stat" width="px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnwarmy&layout=compact" />
 
 
-  <img align="right" alt="wakatime" width="px" src="https://github-readme-stats.vercel.app/api/wakatime?username=tnwarmy" />
+  <img align="left" alt="wakatime" width="px" src="https://github-readme-stats.vercel.app/api/wakatime?username=tnwarmy" />
 
