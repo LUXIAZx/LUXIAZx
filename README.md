@@ -72,11 +72,6 @@ you can reach me @tnwarmy
 **Github stats** 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LUXIAZx&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-  <img align="left" alt="stat" width="px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUXIAZx&layout=compact" />
-
-
-  <img align="left" alt="wakatime" width="px" src="https://github-readme-stats.vercel.app/api/wakatime?username=LUXIAZx" />
+<img align="left" alt="stat" width="px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUXIAZx&layout=compact" />
+<img align="left" alt="wakatime" width="px" src="https://github-readme-stats.vercel.app/api/wakatime?username=LUXIAZx" />
 
