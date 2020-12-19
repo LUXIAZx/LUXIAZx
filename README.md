@@ -39,6 +39,7 @@ you can reach me @tnwarmy
 </br>
 
 **My role**
+- Computer Scientise
 * Software Engineer / Developer :computer:	(Junior)
 
 **Let's Talk about Myself**
@@ -49,6 +50,7 @@ you can reach me @tnwarmy
     - Web Development (*learning*)
     - Game Development
     - Data Science
+    - Cybersecurity
 - You can ask me anything about computer sciences, I'm happy to help.
 
 <!--Gif coding-->
