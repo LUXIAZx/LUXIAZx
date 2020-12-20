@@ -50,8 +50,7 @@ you can reach me @tnwarmy
 - I'm interesting about Major of these. :smiling_face_with_three_hearts:
     - Web Development (*learning*)
     - Game Development
-    - Data Science
-    - Cybersecurity
+    - Artificial intelligent
 - You can ask me anything about computer sciences, I'm happy to help.
 
 <!--Gif coding-->
