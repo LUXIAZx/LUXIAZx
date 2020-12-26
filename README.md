@@ -40,7 +40,7 @@ you can reach me @tnwarmy
 </br>
 
 **My role**
-- Computer Scientise
+- Computer Science Learner
 * Software Engineer / Developer :computer:	(Junior)
 
 **Let's Talk about Myself**
