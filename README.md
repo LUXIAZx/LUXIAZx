@@ -1,1 +1,1 @@
-<img src="pic/greeting.gif" alt="simple intro" width="750" height="500" >
+<img src="pic/greeting.gif" alt="simple intro" width="800" height="650" >
