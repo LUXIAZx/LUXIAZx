@@ -1,6 +1,10 @@
 #### Thanawit Udompol -- @LUXIAZx
 
-<img src="./pic/cover.png">
+<p>
+
+<img src="./pic/cover.png" width=300> <img src="./pic/coding.gif" width=300>  
+</p>
+<br>
 
 🙌 Welcome to my github profile.
 ##### <p><q>The best way to predict the future is to create it. - Peter Drucker</q></p>
