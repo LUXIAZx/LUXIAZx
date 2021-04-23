@@ -2,7 +2,7 @@
 
 <p>
 
-<img src="./pic/cover.png" width=300> <img src="./pic/coding.gif" width=300>  
+<img src="./pic/cover.png" width=500> <img src="./pic/coding.gif" width=300>  
 </p>
 <br>
 
