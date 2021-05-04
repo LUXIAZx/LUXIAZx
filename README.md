@@ -1,8 +1,11 @@
 #### Thanawit Udompol -- @LUXIAZx
 
-<p>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=whhu4y6t2ekb0686mq9cb0tw5&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=whhu4y6t2ekb0686mq9cb0tw5&redirect=true)
 
-<img src="./pic/cover.png" width=500> <img src="./pic/coding.gif" width=300>  
+<hr>
+
+<p>
+<img src="./pic/cover.png" width=500> <img src="./pic/coding.gif" width=400>  
 </p>
 <br>
 
@@ -19,6 +22,8 @@
 [![utilForever's github stats](https://github-readme-stats.vercel.app/api?username=LUXIAZx&show_icons=true&theme=dracula)](https://github.com/LUXIAZx)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUXIAZx&layout=compact&langs_count=8&theme=dracula)](https://github.com/LUXIAZx)
 
+<hr>
+
 ### 🔭 I’m currently working on
 
 - ? 
@@ -32,3 +37,5 @@
 
 - **Contributor**  [roadmap](https://github.com/LUXIAZx/roadmap)
 - **Reader Partner** [The Art of Computer Programming](https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043)
+
+<hr>
