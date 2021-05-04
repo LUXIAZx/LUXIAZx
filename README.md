@@ -4,10 +4,9 @@
 
 <hr>
 
-<p>
-<img src="./pic/cover.png" width=500> <img src="./pic/coding.gif" width=400>  
-</p>
-<br>
+<img src="./pic/coding.gif">  
+
+<hr>
 
 🙌 Welcome to my github profile.
 ##### <p><q>The best way to predict the future is to create it. - Peter Drucker</q></p>
