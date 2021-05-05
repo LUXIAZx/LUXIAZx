@@ -1,8 +1,6 @@
 #### Thanawit Udompol -- @LUXIAZx
 
-<img aligh="left" width="230" height="300" src="https://spotify-github-profile.vercel.app/api/view?uid=whhu4y6t2ekb0686mq9cb0tw5&cover_image=true&theme=default">
-
-<img aligh="left" width="350" height="300" src="./pic/coding.gif">
+<img aligh="left" width="230" height="300" src="https://spotify-github-profile.vercel.app/api/view?uid=whhu4y6t2ekb0686mq9cb0tw5&cover_image=true&theme=default"> <img aligh="left" width="350" height="300" src="./pic/coding.gif">
 
 <hr>
 
