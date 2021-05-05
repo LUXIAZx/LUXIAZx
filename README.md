@@ -4,7 +4,7 @@
 
 <hr>
 
-🙌 Welcome to my github profile.
+### 🙌 Welcome to my github profile.
 ##### <p><q>The best way to predict the future is to create it. - Peter Drucker</q></p>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLUXIAZx)](https://github.com/LUXIAZx) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luxiaz.tech@gmail.com)](mailto:luxiaz.tech@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/I3lackman)](https://www.facebook.com/I3lackman) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Zxluxia/)](https://twitter.com/ZxLuxia/)
