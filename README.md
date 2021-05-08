@@ -22,6 +22,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUXIAZx&layout=compact&langs_count=8&theme=dracula)](https://github.com/LUXIAZx)
 
 <hr>
+### ❣️ I'm interesting in
+
+- Computer Science
+- Web-Development
+- Game-Development
+- Data-Science
+- Cyber-Security
 
 ### 🔭 I’m currently working on
 
@@ -32,6 +39,7 @@
 - **C** from Beginner to Advance
 - **Computer Science**
 - **Algorithm and Data Structure**
+- 
 ### 👯 I’m looking to collaborate on
 
 - **Contributor**  [roadmap](https://github.com/LUXIAZx/roadmap)
