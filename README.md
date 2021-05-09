@@ -25,6 +25,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUXIAZx&layout=compact&langs_count=8&theme=dracula)](https://github.com/LUXIAZx)
 
 <hr>
+
 ### ❣️ I'm interesting in
 
 - Computer Science
@@ -32,6 +33,9 @@
 - Game-Development
 - Data-Science
 - Cyber-Security
+- Robotic
+
+> Holy Sh*t!, I love Everyting about Computer, Science, Engineering.
 
 ### 🔭 I’m currently working on
 
