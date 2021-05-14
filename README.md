@@ -38,7 +38,7 @@
 - Cyber-Security
 - Robotic
 
-> Holy Sh*t!, I love Everyting about Computer, Science, Engineering.
+> I'm just a tech guy 😃.
 
 ### 🔭 I’m currently working on
 
