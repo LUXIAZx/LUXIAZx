@@ -30,6 +30,7 @@
 
 ### ❣️ I'm interesting in
 
+- Math , Science, Technology, Engineering
 - Computer Science
 - Web-Development
 - Game-Development
