@@ -38,7 +38,7 @@
 - Cyber-Security
 - Robotic
 
-> I'm just a tech guy 😃.
+> I'm love to learn a new thing.
 
 ### 🔭 I’m currently working on
 
