@@ -14,6 +14,10 @@
 
 <hr>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LUXIAZx&theme=default)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LUXIAZx&theme=default)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=LUXIAZx&theme=chalk&row=2&column=4)](https://github.com/LUXIAZx)
 
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=LUXIAZx&theme=dracula)](https://github.com/LUXIAZx)
