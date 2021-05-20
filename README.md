@@ -7,7 +7,12 @@
 ### 🙌 Welcome to my github profile.
 ##### <p><q>The best way to predict the future is to create it. - Peter Drucker</q></p>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLUXIAZx)](https://github.com/LUXIAZx) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luxiaz.tech@gmail.com)](mailto:luxiaz.tech@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/I3lackman)](https://www.facebook.com/I3lackman) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Zxluxia/)](https://twitter.com/ZxLuxia/) [![Discord](https://img.shields.io/badge/Discord-black?logo=discord&style=flat-square)](https://discord.gg/7pSckBMabu)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLUXIAZx)](https://github.com/LUXIAZx) 
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luxiaz.tech@gmail.com)](mailto:luxiaz.tech@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/I3lackman)](https://www.facebook.com/I3lackman) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Zxluxia/)](https://twitter.com/ZxLuxia/) [![Linked-in](https://shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/thanawit-udompol-a34388186) [![Discord](https://img.shields.io/badge/Discord-black?logo=discord&style=flat-square)](https://discord.gg/7pSckBMabu) [![Thanawit Udompol's DEV Community Profile](https://img.shields.io/badge/DEV-black?logo=dev&style=flat-square)](https://dev.to/tnwarmy) [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&style=flat-square)](https://luxiazx-tech.medium.com/)
+
+[![Leedcode](https://img.shields.io/badge/leetcode-black?logo=leetcode&style=flat-square)](https://leetcode.com/LUXIAZx/)
+
 
 [![Github Followers](https://img.shields.io/github/followers/LUXIAZx?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/LUXIAZx?tab=followers)
 
@@ -27,6 +32,18 @@
 
 <hr>
 
+### ❣️ I'm interesting in
+
+- Math , Science, Technology, Engineering
+- Computer Science
+- Web-Development
+- Game-Development
+- Data-Science
+- Cyber-Security
+- Robotic
+
+> I'm love to learn a new thing.
+
 ### 🔭 I’m currently working on
 
 - Build Simulator Algorithm and Data Structure in [Algo8DT](https://github.com/LUXIAZx/Algo8DT)
@@ -36,6 +53,7 @@
 - **C** from Beginner to Advance
 - **Computer Science**
 - **Algorithm and Data Structure**
+- 
 ### 👯 I’m looking to collaborate on
 
 - **Contributor**  [roadmap](https://github.com/LUXIAZx/roadmap)
