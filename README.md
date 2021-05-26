@@ -23,8 +23,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LUXIAZx&theme=default)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUXIAZx&layout=compact&langs_count=8&theme=dracula)](https://github.com/LUXIAZx)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LUXIAZx&theme=chalk&row=2&column=4)](https://github.com/LUXIAZx)
-
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=LUXIAZx&theme=dracula)](https://github.com/LUXIAZx)
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=LUXIAZx&show_icons=true&theme=dracula)](https://github.com/LUXIAZx)
