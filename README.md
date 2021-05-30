@@ -50,8 +50,9 @@
 
 ### 🌱 I’m currently learning
 
+- **Math** High School for prepare to up University level
 - **C** from Beginner to Advance
-- **Computer Science**
+- **Computer Science** in CS50 from HarvardX
 - **Algorithm and Data Structure**
 
 ### 👯 I’m looking to collaborate on
