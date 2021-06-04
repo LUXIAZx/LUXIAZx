@@ -29,7 +29,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=LUXIAZx&theme=chalk&row=2&column=4)](https://github.com/LUXIAZx)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LUXIAZx)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LXIAZx)
 
 
 
