@@ -39,9 +39,6 @@
 - Computer Science
 - Web-Development
 - Game-Development
-- Data-Science
-- Cyber-Security
-- Robotic
 
 > I'm love to learn a new thing.
 
